@@ -10,11 +10,15 @@ This project is focused on classifying different fish species using Artificial N
 
 ## Data Augmentation
 
-To enhance the model's performance and reduce overfitting, data augmentation techniques are applied to the training images. The following transformations are commonly used:
+To enhance the model's performance and reduce overfitting, data augmentation techniques have been applied to the training and validation images. The following transformations have been utilized:
 
-- **Rotation**: Images are rotated randomly within a certain degree range.
+Image Transformations:
+Images are rotated 90 degrees to the right and left. These transformations help the model understand images from different angles.
 
-These augmentation help the model generalize better by exposing it to a wider variety of image conditions.
+## Applied Transformations
+Rotation to the Right: Images are rotated 90 degrees to the right, creating new files.
+Rotation to the Left: Images are rotated 90 degrees to the left, creating new files.
+These data augmentation processes help the model generalize better by exposing it to a wider variety of image conditions.
 
 ## Model Architecture
 
