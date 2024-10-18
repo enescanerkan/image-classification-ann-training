@@ -35,4 +35,5 @@ These augmentation help the model generalize better by exposing it to a wider va
 To run the project locally, clone the repository using:
 
 ```bash
-git clone https://github.com/enescanerkan/Fish-Classification.git
+git clone https://github.com/enescanerkan/ANN_Training.git
+
