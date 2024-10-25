@@ -3,7 +3,8 @@
 This project is focused on classifying different fish species using Artificial Neural Networks (ANN). The model is trained on images of 18 different fish species and aims to accurately identify the species from the input image.
 
 ## KAGGLE LINK:
-https://www.kaggle.com/code/enescanerkan1/fish-classification/edit
+https://www.kaggle.com/code/enescanerkan1/fish-classification
+
 
 ## Dataset
 
