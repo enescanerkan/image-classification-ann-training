@@ -43,5 +43,5 @@ These data augmentation processes help the model generalize better by exposing i
 To run the project locally, clone the repository using:
 
 ```bash
-git clone https://github.com/enescanerkan/ANN_Training.git
+git clone https://github.com/enescanerkan/image-classification-ann-training.git
 
